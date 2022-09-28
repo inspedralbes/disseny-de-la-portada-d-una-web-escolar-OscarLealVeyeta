@@ -33,6 +33,7 @@
   
   header, section, aside, nav, footer {
     padding: 20px;
+    color: red;
   }
   
   /* header and footer */
